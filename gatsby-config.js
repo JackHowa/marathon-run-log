@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives in Lake View East, Chicago, and makes web apps and tea.`,
     },
     description: `Running to prep for virtual Chicago Marathon 2020.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://run-log.netlify.app/`,
   },
   plugins: [
     {
