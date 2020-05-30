@@ -1,0 +1,18 @@
+html {
+    /* derived from chi marathon 153a7e */
+    background-color: #002465;
+}
+
+h1 {
+    /* derived from chi marathon e60f30 */
+    color: #f9546d;
+
+}
+ h2, h3, p, small, footer, table {
+    color: #fefefe;
+}
+
+a {
+    /* derived from chicago flag light blue */
+    color: #b2daf3;
+}
