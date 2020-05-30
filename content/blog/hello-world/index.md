@@ -1,11 +1,12 @@
 ---
-title: Bye In-Person Training, Hello Virtual Training
+title: Bye In-Person Training, Hello Virtual Training (Day 1)
 date: "2020-05-30T11:51:28.410Z"
 description: "Sad But Excited"
 targetMileage: 5
 targetPace: 11'51"
-actualPace:
-actualMileage:
+actualPace: 10'03"
+actualMileage: 5.01
+day: 1
 ---
 
 | Day                    | Mileage | Target Pace | Actual Pace |
