@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Pandemic Marathon Training`,
+    title: `Lake On The Left`,
     author: {
       name: `Jack Howard`,
-      summary: `who lives in Lake View East, Chicago, and makes web apps and tea.`,
+      summary: `who lives in Lake View East, Chicago, and makes tea and web apps.`,
     },
     description: `Running to prep for virtual Chicago Marathon 2020.`,
     siteUrl: `https://run-log.netlify.app/`,
