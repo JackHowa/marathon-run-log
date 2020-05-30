@@ -1,10 +1,10 @@
-# 2020 Chicago Marathon Virtual Run Log 
+# 2020 Chicago Marathon Virtual Run Log
 
-The goal is to document my runs and maybe visualize them. The audience is probably for friends and family. 
+The goal is to document my runs and maybe visualize them. The audience is probably for friends and family.
 
 It'll be fun to experiment with gatsby. I want this site to be Chicago Marathon-themed. Also it should be fun and fast. I'm expecting this to be mostly text. Would be fun to automate run routes and notes.
 
-## Forked from Gatsby Start 
+## Forked from Gatsby Start
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
