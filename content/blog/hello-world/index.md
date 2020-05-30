@@ -10,7 +10,7 @@ actualMileage:
 
 | Day                    | Mileage | Target Pace | Actual Pace |
 | ---------------------- | ------- | ----------- | ----------- |
-| Saturday, May 30, 2020 | 5       | 11'51"      |
+| Saturday, May 30, 2020 | 5       | 11'51"      | 10'03"
 | Sunday, May 31, 2020   | rest    |
 
 When I signed up for the in-person Chicago Endurance Sports 2020 Chicago Marathon training, I listed "Fun" as the primary reason for running the marathon. The camaraderie of running at York High School was what I had wanted to return to. In fact, the person who recommended Lurie's marathon team ran with me in high school. The goal of this is to try to replicate that -- or at least document it probably not working. Amid the pandemic, this is not ideal times.
@@ -30,3 +30,11 @@ Due to the pandemic, it's made me anxious to run in crowds sometimes nearby in t
 Let's see if I can overcome some of the cobwebs with a 5-mile intro run proposed by Nike plan. I'll be listing mileage and target pace in some programmatic way in the future (this is a writing and hopefully data project). In the meantime, here is the goal for today.
 
 ![Somewhat boring start with run plan of first day](./sad-today-run.png)
+
+---- 
+
+# Post-Run Notes
+
+Felt ok even though it was fairly slow. I was under target pace, which felt good. Mild pain near the end on the outside of my left knee and hip. I was examined by a physical therapist for similar pain last week. She said that it was due to a weak hip and aggravated knee. She recommended strengthening, stretching, and rolling out. 
+
+I want to stick to strengthening. Also, focusing on not dropping my hips running. I feel like sitting at a desk at home may aggravate this. Also have felt this pain during the end of a half-marathon last year.
