@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Pandemic Marathon Training`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Jack Howard`,
+      summary: `who lives in Lake View East, Chicago, and makes web apps and tea.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `kylemathews`
-    }
+    description: `Running to prep for virtual Chicago Marathon 2020.`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`
   },
   plugins: [
     {
