@@ -16,3 +16,12 @@ a {
     /* derived from chicago flag light blue */
     color: #b2daf3;
 }
+
+table {
+    /* via https://stackoverflow.com/a/30423904/7491536 */
+    /* allows table to be scrollable */
+    display: block;
+    overflow-x: auto;
+    /* using wrap normal to make sure column headers visible */
+}
+
