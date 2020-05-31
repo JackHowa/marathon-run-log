@@ -7,6 +7,9 @@ module.exports = {
     },
     description: `Running to prep for virtual Chicago Marathon 2020.`,
     siteUrl: `https://run-log.netlify.app/`,
+    social: {
+      lurieUsername: `jackhowa`,
+    },
   },
   plugins: [
     {
