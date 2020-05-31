@@ -61,8 +61,7 @@ const Layout = ({ location, title, children, lurieUsername }) => {
       <footer>
         <a
           target="_blank"
-          referrerpolicy="no-referrer"
-          rel="noopener"
+          rel="noopener noreferrer"
           href={`http://foundation.luriechildrens.org/goto/${lurieUsername}`}
         >
           Donate
