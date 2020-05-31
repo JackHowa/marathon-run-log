@@ -1,5 +1,5 @@
 ---
-title: Bye In-Person Training, Hello Virtual Training (Day 1)
+title: Bye In-Person Training, Hello Virtual Training
 date: "2020-05-30T11:51:28.410Z"
 description: "Sad But Excited"
 targetMileage: 5
@@ -9,10 +9,10 @@ actualMileage: 5.01
 day: 1
 ---
 
-| Day                    | Mileage | Target Pace | Actual Pace |
-| ---------------------- | ------- | ----------- | ----------- |
-| Saturday, May 30, 2020 | 5       | 11'51"      | 10'03"      |
-| Sunday, May 31, 2020   | rest    |
+| Day       | Mileage | Target Pace | Actual Pace |
+| --------- | ------- | ----------- | ----------- |
+| 5/30/2020 | 5       | 11'51"      | 10'03"      |
+| 5/31/2020 | rest    |
 
 When I signed up for the in-person Chicago Endurance Sports 2020 Chicago Marathon training, I listed "Fun" as the primary reason for running the marathon. The camaraderie of running at York High School was what I had wanted to return to. In fact, the person who recommended Lurie's marathon team ran with me in high school. The goal of this is to try to replicate that -- or at least document it probably not working. Amid the pandemic, this is not ideal times.
 
