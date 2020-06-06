@@ -10,7 +10,8 @@ p,
 small,
 a,
 footer,
-th {
+th,
+td {
   font-family: -apple-system, system-ui, Verdana, sans-serif;
 }
 
