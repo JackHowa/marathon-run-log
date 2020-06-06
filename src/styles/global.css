@@ -8,7 +8,9 @@ h2,
 h3,
 p,
 small,
-a {
+a,
+footer,
+th {
   font-family: -apple-system, system-ui, Verdana, sans-serif;
 }
 
