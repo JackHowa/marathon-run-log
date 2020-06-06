@@ -1,27 +1,39 @@
 html {
-    /* derived from chi marathon 153a7e */
-    background-color: #002465;
+  /* derived from chi marathon 153a7e */
+  background-color: #002465;
+}
+
+h1,
+h2,
+h3,
+p,
+small,
+a {
+  font-family: -apple-system, system-ui, Verdana, sans-serif;
 }
 
 h1 {
-    /* derived from chi marathon e60f30 */
-    color: #f9546d;
-
+  /* derived from chi marathon e60f30 */
+  color: #f9546d;
 }
- h2, h3, p, small, footer, table {
-    color: #fefefe;
+h2,
+h3,
+p,
+small,
+footer,
+table {
+  color: #fefefe;
 }
 
 a {
-    /* derived from chicago flag light blue */
-    color: #b2daf3;
+  /* derived from chicago flag light blue */
+  color: #b2daf3;
 }
 
 table {
-    /* via https://stackoverflow.com/a/30423904/7491536 */
-    /* allows table to be scrollable */
-    display: block;
-    overflow-x: auto;
-    /* using wrap normal to make sure column headers visible */
+  /* via https://stackoverflow.com/a/30423904/7491536 */
+  /* allows table to be scrollable */
+  display: block;
+  overflow-x: auto;
+  /* using wrap normal to make sure column headers visible */
 }
-
