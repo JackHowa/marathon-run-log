@@ -31,8 +31,8 @@ Furthermore, taking control of little wins like [stretching and foam-rolling](ht
 | 6/3/2020 | ✅                 | ✅        | ✅                |
 | 6/4/2020 | ✅                 | ❌        | ❌                |
 | 6/5/2020 | ✅                 | ❌        | ❌                |
-| 6/6/2020 | ✅                 | ✅        | ✅                |
-| 6/7/2020 |                    |           |                   |
+| 6/6/2020 | ✅                 | ✅        | ❌                |
+| 6/7/2020 | ✅                 | ✅        | ✅                |
 
 In the future, I want to use webhooks integration with Netlify functions and [Streaks](https://crunchybagel.com/streaks-5-now-available/). I think there's definitely something to be done here programmatically (Nike Run Club and Apple Health are a black box). Publishing this data, even though it's not widely shared, gives me accountability. I'm a big fan of the idea of "learning in public".
 
