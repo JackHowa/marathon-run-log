@@ -1,5 +1,5 @@
 ---
-title: "Looking for the helpers"
+title: "Looking For The Helpers"
 # run new Date().toIsoString() v
 date: "2020-06-14T16:16:00.452Z"
 description: Also Watch Out For Fences
@@ -67,4 +67,4 @@ Going to increase stretching to twice a day. Felt good to do anyway twice and ke
 
 ## Minor Gripe
 
-Been seeing a ton of loading state for the `My Coach` part of the NRC club app. Kind of frustrating.
+Been seeing a ton of loading state for the 'My Coach' part of the NRC club app. Kind of frustrating.
