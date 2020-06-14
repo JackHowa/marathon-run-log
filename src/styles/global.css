@@ -15,6 +15,20 @@ td {
   font-family: -apple-system, system-ui, Verdana, sans-serif;
 }
 
+/* highlights colors */
+/* td,
+th, 
+todo: style border-color of tables with light white\
+
+ hr {
+  background: #b2daf3;
+} 
+*/
+
+blockquote {
+  border-color: #b2daf3;
+}
+
 h1 {
   /* derived from chi marathon e60f30 */
   color: #f9546d;
