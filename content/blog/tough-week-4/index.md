@@ -24,9 +24,9 @@ This week, I explored segments with the native workout app on Apple Watch rather
 
 While talking with other friends about the app and the plans, I'm hesitant to emphasize the speed training amid marathon training. While the distance is the hardest part (not the pace), I've always found the ability and feel of speed to be helpful for stride and confidence. For instance, during the last few miles of the long run, I focused on running hard between light poles in order to keep my pace up.
 
-![Running hard between light poles on trail](./light-poles-long-run.jpg)
+![Running hard between light poles on trail](./light-poles-long-run.JPG)
 
-This is similar to the fartlek idea of running hard in short bursts. I remember in high school running this was so you didn't settle into a slower pace: you tried to fight yourself out of it with small bursts. Essentially, run hard in between light poles that are typically like 100 m.
+This is similar to the [fartlek](https://en.wikipedia.org/wiki/Fartlek), or old-fashioned interval training, idea of running hard in short bursts. I remember in high school running this was so you didn't settle into a slower pace: you tried to fight yourself out of it with small bursts. Essentially, run hard in between light poles that are typically like 100 m.
 
 ## Stretching Went Ok, Rolling and Strengthening Not
 
