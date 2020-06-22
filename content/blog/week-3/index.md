@@ -59,7 +59,7 @@ It was comforting to hear coaching amid my run. My partner laughed at the Americ
 | 6/11/2020 | ✅                 | ❌        | ❌                |
 | 6/12/2020 | ✅                 | ✅        | ✅                |
 | 6/13/2020 | ✅                 | ✅        | ✅                |
-| 6/14/2020 |                    |           |
+| 6/14/2020 | ❌                 | ❌        | ❌                |
 
 Again, I fell prey to not foam rolling and strengthening on harder days (Monday and Tuesday). Yet overall my hips have felt stronger. On the long-run, I felt minor pain on top of my knee -- not side or back like before. On Saturday, after a harder hip and leg cross-training day on Friday, the foam roll felt amazing. Will continue this.
 
