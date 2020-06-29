@@ -30,7 +30,7 @@ Like Nike's coach Bennet said, we won't be able to run our best races, but we ca
 
 For example, I started running in the grass amid the crowded and underwater trail running just north of Belmont Harbor. Near the end of my run on Sunday, I partially twisted my ankle. I don't think it's awful but it wasn't fun, slowing me down. Preferring the water to the crowded lane and the stick-filled grass, my feet got soaked by the 4 inch standing water. My run on the way back on the more inland bike lane was sloshy.
 
-![Right where there was high water](./end-outdoor-run.jpg)
+![Right where there was high water](./end-outdoor-run.jpeg)
 
 I learned anew that wet socks are no fun, especially thick cotton ones. In response, I've made running a priority in the budget and bought Balega socks I've tried before.
 
