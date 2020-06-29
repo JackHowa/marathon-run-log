@@ -38,15 +38,15 @@ I'm a bit sore and more exhausted after the 7 miles than I was hoping. I think r
 
 ## Healthy Habits Hopefully Paying Off
 
-| Day | Dynamic Stretching (2x) | Foam Roll | Hip Strengthening |
-| --- | ----------------------- | --------- | ----------------- |
-| M   | ✅                      | ✅        | ✅                |
-| T   | ✅                      | ✅        | ✅                |
-| W   | ✅                      | ❌        | ✅                |
-| Th  | ✅                      | ✅        | ✅                |
-| F   | ✅                      | ❌        | ✅                |
-| Sa  | ✅                      | ✅        | ✅                |
-| Su  | ✅                      | ✅        | ✅                |
+| Day | Dynamic Stretching | Foam Roll | Hip Strengthening |
+| --- | ------------------ | --------- | ----------------- |
+| M   | ✅                 | ✅        | ✅                |
+| T   | ✅                 | ✅        | ✅                |
+| W   | ✅                 | ❌        | ✅                |
+| Th  | ✅                 | ✅        | ✅                |
+| F   | ✅                 | ❌        | ✅                |
+| Sa  | ✅                 | ✅        | ✅                |
+| Su  | ✅                 |           |                   |
 
 On Wednesday, I just knw I could get out of bed and foam roll. But that maybe it wouldn't be 100 percent effort. Then, on Friday, I was at the parents' house without a foam roller. That's my excuses. The hip strengthening, especially with NTC core cross-training, feels effective. Still felt some pain in my left knee's hamstring on Sunday.
 
