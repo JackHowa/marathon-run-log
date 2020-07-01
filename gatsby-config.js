@@ -53,11 +53,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Lake On The Left: Chicago Marathon Virtual Training 2020`,
+        short_name: `Lake On The Left`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#002465`,
+        theme_color: `#b2daf3`,
         display: `minimal-ui`,
         icon: `content/assets/favicon-android-chrome-512x512.png`,
       },
@@ -71,6 +71,6 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }
