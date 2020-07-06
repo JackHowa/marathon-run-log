@@ -2,12 +2,13 @@
 import "prismjs/themes/prism.css"
 import "./src/styles/global.css"
 
-exports.onServiceWorkerUpdateFound = () => {
-  if (
-    window.confirm(
-      "This site has been updated with new data. Do you wish to reload the site to get the new data?"
-    )
-  ) {
-    window.location.reload(true);
+export const onServiceWorkerUpdateReady = () => {
+  const answer = window.confirm(
+    `This application has been updated. ` +
+      `Reload to display the latest version?`
+  )
+
+  if (answer === true) {
+    window.location.reload()
   }
-};
+}
