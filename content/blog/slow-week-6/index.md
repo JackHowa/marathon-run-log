@@ -10,7 +10,7 @@ week: 6
 
 Long run felt good. Perhaps with less knee pain, I have less motivation to do hip strengthening. Will work on some of the exercises next week.
 
-Amid a holiday weekend, the timing was a bit off. I would not normally do 9 on a workday.
+Amid a holiday weekend, the timing was a bit off. I would not normally do 9 miles on a workday.
 
 | Day | Distance | Pace  |
 | --- | -------- | ----- |
