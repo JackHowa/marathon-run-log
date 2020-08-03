@@ -1,0 +1,19 @@
+---
+title: Enjoying The Challenge, Mileage
+# run new Date().toISOString()
+date: "2020-08-03T02:36:41.547Z"
+description: Feel Like I Could Do More
+week: 10
+---
+
+| Day | Distance | Pace   | Target |
+| --- | -------- | ------ | ------ |
+| M   | 3 mi     | 8'36   | 8'50"  |
+| T   | rest     |        |        |
+| W   | rest     |        |        |
+| Th  | 6 mi     | 8'43"  | 8'45"  |
+| F   | rest     |        |        |
+| Sa  | 10 mi    | 9'19"  | 9'30"  |
+| Su  | 3.36 mi  | 10'11" | 9'30"  |
+
+Enjoyed another week of running. Felt surprisingly good after 10 miles on Saturday. Missed out of on strengthening and stretching again. Hope to focus on that in next two weeks.
