@@ -69,7 +69,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    // had to remove service worker as posts not updating, even with custom on ready notifications
-    `gatsby-plugin-remove-serviceworker`,
   ],
 }
