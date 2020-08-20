@@ -60,6 +60,7 @@ module.exports = {
         theme_color: `#b2daf3`,
         display: `minimal-ui`,
         icon: `content/assets/favicon-android-chrome-512x512.png`,
+        legacy: true,
       },
     },
     `gatsby-plugin-react-helmet`,
