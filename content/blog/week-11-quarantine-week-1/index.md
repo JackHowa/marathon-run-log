@@ -10,7 +10,9 @@ week: 11
 
 I was hesitant to continue posting about running considering the quarantine and travel order. However, again, it feels somehow more real if you write it.
 
-So, I focused on stretching, foam rolling, and strengthening while staying in our apartment. The apartment felt a lot smaller and more bare compared with the family lakehouse.
+So, I focused on stretching, foam rolling, and strengthening while staying in our apartment. It was helpful to have something to focus on every day with even more time inside the apartment, without running. It makes you realize how much a routine exercise can become.
+
+The apartment felt a lot smaller and more bare compared with the family lakehouse.
 
 | Day | Dynamic Stretching | Foam Roll | Hip Strengthening |
 | --- | ------------------ | --------- | ----------------- |
