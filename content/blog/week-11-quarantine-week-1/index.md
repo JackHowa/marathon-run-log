@@ -1,7 +1,7 @@
 ---
 title: Stretching Keeping Me Sane
 # run new Date().toISOString()
-date: "2020-08-02T00:00:00.000Z"
+date: "2020-08-09T05:00:00.000Z"
 description: Quarantine Going OK
 week: 11
 ---
