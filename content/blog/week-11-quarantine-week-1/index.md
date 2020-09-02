@@ -6,8 +6,6 @@ description: Quarantine Going OK
 week: 11
 ---
 
-# Quarantine Week 1 After Travel
-
 I was hesitant to continue posting about running considering the quarantine and travel order. However, again, it feels somehow more real if you write it.
 
 So, I focused on stretching, foam rolling, and strengthening while staying in our apartment. It was helpful to have something to focus on every day with even more time inside the apartment, without running. It makes you realize how much a routine exercise can become.
