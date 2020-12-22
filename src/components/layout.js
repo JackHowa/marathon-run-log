@@ -31,7 +31,7 @@ const Layout = ({ location, title, children, lurieUsername }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          fontFamily: `sans-serif`,
           marginTop: 0,
         }}
       >
