@@ -23,7 +23,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
-    "react-typography": "^0.16.19",
+    "react-typography": "^0.16.20",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
