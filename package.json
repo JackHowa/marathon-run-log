@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "jackhowa",
   "dependencies": {
-    "gatsby": "^3.5.0",
+    "gatsby": "^3.6.1",
     "gatsby-plugin-image": "^1.5.0",
     "gatsby-plugin-manifest": "^3.3.0",
     "gatsby-plugin-react-helmet": "^4.3.0",
