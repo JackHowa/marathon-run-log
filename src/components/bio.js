@@ -2,14 +2,12 @@
  * Bio component that queries for data
  * with Gatsby's useStaticQuery component
  *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
+ * See: https://www.gatsbyjs.com/docs/use-static-query/
  */
 
-import React from "react"
+import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import { GatsbyImage } from "gatsby-plugin-image"
-
-import { rhythm } from "../utils/typography"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -30,30 +28,31 @@ const Bio = () => {
     }
   `)
 
-  const { author } = data.site.siteMetadata
+  // Set these values by editing "siteMetadata" in gatsby-config.js
+  const author = data.site.siteMetadata?.author
+  const social = data.site.siteMetadata?.social
+
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-      }}
-    >
-      <GatsbyImage
-        image={data.avatar.childImageSharp.gatsbyImageData}
-        alt={author.name}
-        style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
+    <div className="bio">
+      <StaticImage
+        className="bio-avatar"
+        layout="fixed"
+        formats={["auto", "webp", "avif"]}
+        src="../images/profile-pic.png"
+        width={50}
+        height={50}
+        quality={95}
+        alt="Profile picture"
       />
-      <p>
-        Ran by <strong>{author.name}</strong> {author.summary}
-      </p>
+      {author?.name && (
+        <p>
+          Written by <strong>{author.name}</strong> {author?.summary || null}
+          {` `}
+          <a href={`https://twitter.com/${social?.twitter || ``}`}>
+            You should follow them on Twitter
+          </a>
+        </p>
+      )}
     </div>
   )
 }

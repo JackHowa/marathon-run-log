@@ -1,3 +1,10 @@
-// prism seems to use custom typefaces monsterrat, but overrode
-import "prismjs/themes/prism.css"
+
 import "./src/styles/global.css"
+
+// normalize CSS across browsers
+import "./src/normalize.css"
+// custom CSS styles
+import "./src/style.css"
+
+// Highlighting for code blocks
+import "prismjs/themes/prism.css"
